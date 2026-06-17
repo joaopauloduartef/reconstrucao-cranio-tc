@@ -2,3 +2,4 @@ numpy
 pydicom
 matplotlib
 plotly
+scikit-image
